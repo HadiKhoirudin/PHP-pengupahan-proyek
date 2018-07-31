@@ -1,0 +1,10 @@
+<?php
+require_once('pengupahan_proyek/menu_1_home.php');
+require_once('pengupahan_proyek/menu_2_input_data_proyek.php');
+require_once('pengupahan_proyek/menu_3_input_data_upah_pekerja.php');
+require_once('pengupahan_proyek/menu_4_daftar_data_pekerja.php');
+require_once('pengupahan_proyek/menu_5_input_absensi_pekerja_harian.php');
+require_once('pengupahan_proyek/menu_6_laporan_absensi_dan_upah_pekerja_proyek.php');
+require_once('pengupahan_proyek/menu_7_laporan_pengupahan_proyek.php');
+require_once('pengupahan_proyek/menu_8_logout.php');
+?>
